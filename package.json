@@ -41,7 +41,7 @@
     "minimist": "1.1.1",
     "phantomjs-polyfill": "0.0.1",
     "reactify": "1.1.1",
-    "sinon": "1.15.4",
+    "sinon": "9.0.1",
     "vinyl-buffer": "1.0.0",
     "vinyl-source-stream": "1.1.0",
     "watchify": "3.2.3"
