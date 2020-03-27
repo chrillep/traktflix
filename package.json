@@ -34,7 +34,7 @@
     "gulp-zip": "3.0.2",
     "istanbul": "0.3.17",
     "karma-browserify": "4.2.1",
-    "karma-chrome-launcher": "0.2.0",
+    "karma-chrome-launcher": "3.1.0",
     "karma-coverage": "0.4.2",
     "karma-jasmine": "0.3.6",
     "karma-phantomjs-launcher": "0.2.0",
